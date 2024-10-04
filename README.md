@@ -4,16 +4,13 @@ I'm thrilled to be working as a virtual Data Science/Analytics Intern at Brainwa
 
 Here’s what I focused on:
 
-Import Libraries
-Read Data
-Get some information about the data
-Summary of Data
-columns Description
-Data Assesment (manually eg: google sheets , programmetic eg: using pandas functions)
-Issues with Data sets
-order to clean data
-Data Cleaning
-Data Visualization & Getting Analysis
+🧹 Data Cleaning: Preparing the dataset by handling missing values and ensuring consistency.
+
+🔍 Exploratory Data Analysis (EDA): Visualizing sales trends, identifying top-selling products, and exploring customer behavior.
+
+📈 Insights: Highlighting key patterns in sales performance across different regions and time periods.
+
+This project helped me sharpen my skills in Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 
 You can get the dataset from Kaggle by following this link. https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
